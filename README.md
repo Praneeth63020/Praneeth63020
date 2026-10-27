@@ -1,9 +1,7 @@
 ## Hi there 👋
 # Hi, I'm Praneeth 👋
 
-I am a Chemical Engineering undergraduate at IIT Indore interested in software engineering, backend development, algorithms, and AI systems.
-
-I enjoy building practical applications, testing software behavior, debugging issues, and improving code quality.
+I'm a Chemical Engineering undergraduate at IIT Indore with a strong interest in **software engineering, AI systems, backend development, and software reliability**. My experience includes LLM evaluation, Python-based validation, adversarial testing, and MCP-related AI tool integration. I enjoy debugging complex issues, exploring edge cases, and building reliable applications, with hands-on experience in Node.js, React, MongoDB, and smart contract testing. I'm particularly interested in developing AI-powered applications, robust backend systems, and tools that improve software quality.
 
 ## Technical Skills
 
